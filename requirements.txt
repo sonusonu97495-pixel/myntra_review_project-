@@ -1,0 +1,14 @@
+
+pandas
+numpy
+requests
+beautifulsoup4
+lxml
+selenium
+ipykernel
+plotly
+python-dotenv
+streamlit
+Flask-Cors
+scikit-learn
+
